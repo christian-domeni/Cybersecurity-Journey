@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 I am an incoming L3 Computer Science Engineering student at the
-École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).
+National Advanced School of Engineering of Yaounde (NASEY).
 
 I am currently building my foundations in computer science and
 progressively exploring cybersecurity, with a particular interest
@@ -57,7 +57,7 @@ Future sections will include:
 
 ## 📌 Current Status
 
-🎓 Incoming L3 Engineering Student — ENSPY  
+🎓 Incoming L3 Engineering Student — NASEY 
 🔐 Beginning my cybersecurity journey  
 📚 Building strong technical foundations
 
